@@ -12,7 +12,7 @@ function Portfolio () {
     return (
         <section className="container">
           <div className="project">
-            <h2 className="top-title">Bootcamp Portfolio</h2>
+            <h2 className="top-title">My Portfolio</h2>
             <hr></hr>
           </div>
 
